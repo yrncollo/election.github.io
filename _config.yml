@@ -2,4 +2,4 @@ url: "https://github.com/yrncollo/election.github.io/" # the base hostname & pro
 baseurl: "" # the subpath of your site, e.g. /blog
 title: "Results" # the name of your site, e.g. ACME Corp.
 description: "Results 2022"
-theme: academic-jekyll-theme
+theme: 
