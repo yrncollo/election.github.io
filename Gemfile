@@ -2,5 +2,5 @@
 
 source "https://rubygems.org"
 gem "academic-jekyll-theme"
-
+gemspec
 gem "webrick", "~> 1.7"
