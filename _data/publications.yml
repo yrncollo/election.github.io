@@ -1,5 +1,5 @@
 featured:
-- {name: '<iframe width="120%" height="1830" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQQECI6L83KwM45zw9OZEHmXmFLHEYirtkrKtPeddQN3C5-HWLAimqsDrfNZ8tjzUlSH21GP-95f8G2/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>', url: '/publications/'}
+- {name: '<iframe width="125%" height="1830" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQQECI6L83KwM45zw9OZEHmXmFLHEYirtkrKtPeddQN3C5-HWLAimqsDrfNZ8tjzUlSH21GP-95f8G2/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>', url: '/publications/'}
 
 index:
 - {name: '.', url: '/publications/'}
